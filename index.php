@@ -1,7 +1,7 @@
 <?php
 
 
-$numero = readline("Ingrese un numero");
+$numero = readline("Ingrese un numero: ");
 
 if (!is_numeric($numero)) {
   echo "Error. No ingresaste un numero\n";
