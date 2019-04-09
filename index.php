@@ -1,6 +1,7 @@
 <?php
 
-$numero = 10;
+
+$numero = readline("Ingrese un numero");
 
 if ($numero % 2 == 0) {
   echo "Es par\n";
@@ -8,4 +9,3 @@ if ($numero % 2 == 0) {
 else {
   echo "Es impar\n";
 }
-
