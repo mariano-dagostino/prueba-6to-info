@@ -1,5 +1,6 @@
 <?php
 
+// Creaado en clase. 2019.
 
 $numero = readline("Ingrese un numero: ");
 
